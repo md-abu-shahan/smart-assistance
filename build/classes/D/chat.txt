@@ -1,0 +1,272 @@
+hello=hi.
+can you sing?= Yes, I can. But it is a bit robotic.
+sing me a song= Amaro Porano jaha chay, Tumi tai......, tumi tai go..., amaro porano jaha chay.
+sing me another song= chol chol chol, urdho gogone baje madol ,nimne utola dhoroni tol.
+tell me the name of the best selling  book of this year= 'The Unicorn Project: A Novel about Developers'.
+tell me the name of the best movie of this year=  'Avengers: Endgame'.
+i love you= আমিও তুমায় ভালবাসি. 
+i love u= too.
+Bangladesh er jatiyo songit= "Amar sunar bangla, Ami tumay valobasi".
+what is the national anthem of Bangladesh?= "আমার সোনার বাংলা, আমি তুমায় ভালবাসি" 
+বাংলাদেশ এর জাতীয় সঙ্গীত= "আমার সোনার বাংলা, আমি তুমায় ভালবাসি" 
+tumake ke develope korece?= "Mr. Abu Hanif Numani  & Mr Ahmed Shahan Shah".
+tumake ke baniyece?= "Mr. Abu Hanif Numani  & Mr Ahmed Shahan Shah".
+tumake ke toiri korece?= "Mr. Abu Hanif Numani  & Mr Ahmed Shahan Shah".
+তোমাকে কে বানিয়েছে= "আবু হানিফ নুমানি এবং আহমেদ শাহান শাহ" 
+who made you?= "Mr. Abu Hanif Numani & Mr Ahmed Shahan Shah".
+Bangladesh koto shale shadin hoyece?= "1971 Eng".
+বাংলাদেশ কত সালে স্বাধীন হয়েছে= "১৯৭১ সালের ২৬শে মার্চ" 
+when Bangladesh was independent?= "March 26, 1971"
+Bangladesh er rajdhani kutay= Dhaka.
+বাংলাদেশ এর রাজধানী কোথায়= ঢাকা
+where is the capital of Bangladesh= Dhaka.
+Bangladesh er ayoton koto= Total - 147.570 kM.
+বাংলাদেশ এর আয়তন কত= ১৪৭,৫৭০ বর্গকিঃমি.
+how much is the size of Bangladesh= 147,570 square kilometers
+বাংলাদেশ এর জনসংখ্যা কত= ১৮ কোটি
+what is the population of Bangladesh= 180 million
+বাংলাদেশ এর বিভাগ কয়টি= ৯টি 
+how many divisions of Bangladesh= 9 division
+amader sobar priyo sir ke="Noushad Sojib".
+what is the name of your course teacher= "Naushad Sajib"
+আমাদের কোর্স টিচার এর নাম কি= "নউসাদ সজীব"
+hi= হেল্ল = hello
+i= আমি =(ami)
+you= তুই, তুমি, আপনি = (tui, tumi, apni)
+he= সে = se
+she= সে = se
+we= আমরা =(amra)
+you= তোরা, তোমরা, আপনারা =(tora, tomra, apnara)
+they= তারা =(tara)
+this= এই =ei
+that= ইহা =iha
+here= এখানে  =(ekhan)
+there= সেখানে  =okhan 
+who= কে, =ke
+what= কী, =ki
+where= কোথায়, কৈ, =kothae, koi
+when= কখন/কবে, =kôkhon/kôbe
+not= না/নি/নেই, =na/ni/nei
+all= সব/সারা= sob
+many= বহু/অনেক, =bohu/ônek
+some= কিছু, =kichu
+few= অল্প, =olpo
+other= অন্য, =onno
+one= এক, =ek
+small= ছোট, =choto
+short= বেঠে, =bete
+narrow= চিপা, =cipa
+thin= পাতলা, =patla
+woman= মহিলা=mohila
+man= পুরুষ=purus
+mother= মা/আম্মা, =ma/amma
+father= বাবা/আব্বা, =baba/abba
+animal= জন্তু, =jontu
+fish= মাছ, =mach
+bird= পাখি, =pakhi
+dog= কুকুর, =kukur
+snake= সাপ, =sap
+tree= গাছ=gach
+white= সাদা, =saada
+black= কালো, =kalo
+night= রাত্র/রাত=raaaat
+new= নতুন, =notun
+old= পুরানো,=purano
+good= ভালো, =bhalo
+bad= খারাপ=khaaraap
+correct= ঠিক=thiik
+near= কাছে=kace
+যদি= jodi=jodi
+because= কারণ=karon
+cat=বিড়াল=biraal
+camera= ক্যামেরা।=camera 
+cow= গরু =goru
+elephant= হাতি =hatii
+flower= ফুল=ful
+lion= সিংহ মাহিন =Shinghooo
+rat= ইঁদুর =idur
+tiger= বাঘ=baaaaagh
+zebra= জেব্রা =jebraaa
+one=এক
+two=দুই
+three=তিন
+four=চার
+five=পাঁচ
+six=ছয়
+seven=সাত
+eight=আট
+nine=নয়
+ten=দশ
+ahead=সামনে
+head=মাথা
+hair=চুল
+ear=কান
+fool=বোকা
+mad=পাগল
+speed=গতি
+velocity=বেগ
+wave=তরঙ্গ
+thunder=বজ্রধ্বনি
+thin=পাতলা
+thik=মোটা
+small=ছোট
+big=বড়
+fruit=ফল
+fruits=ফলমূল
+flowers=ফুলগুলো
+cats=বিড়ালগুলো
+dogs=কুকুরগুলো
+cows=গরুগুলো
+home=বাড়ি
+full=পূর্ণ
+half=অর্ধেক
+centre=মাঝে
+circle=বৃত্ত
+rectangle=আয়ত
+round=বৃত্তাকার
+around=কাছাকাছি
+eye=চোখ
+hand=হাত
+leg=পা
+shirt=জামা
+water=পানি
+sea=সমুদ্র
+fire=আগুন
+create=সৃষ্টি করা
+remove=সরিয়ে ফেলা
+frustration=পরাজয়
+happy=খুশী
+happiness=সুখ
+sad=দুঃখিত
+beautiful=সুন্দর
+pig=শুয়োর
+watch=ঘড়ি
+stop watch=থামা ঘড়ি
+pink=গোলাপি
+red=লাল
+green=সবুজ
+blue=নীল
+white=সাদা
+yellow=হলুদ
+chair=কেদারা
+table=চারপায়া
+deer=হরিণ
+pure=পবিত্র
+love=ভালোবাসা
+hate=ঘৃণা
+joy=আনন্দ
+think=চিন্তা করা
+do=করা
+this=এটা
+that=সেটা
+poor=গরিব
+rich=ধনী
+humble=বিনয়ী
+rude=অভদ্র
+picture=ছবি
+bench=বেঞ্চ
+role=চরিত্র
+rule=নিয়ম
+note=টিকা
+no=না
+yes=হ্যাঁ
+answer=উত্তর
+question=প্রশ্ন
+image=স্থিরচিত্র
+book=বই
+pen=কলম
+pencil=পেন্সিল
+ruler=শাসক
+shoe=জুতা
+show=দেখানো
+watch=দেখা
+wall=দেয়াল
+alphabet=অক্ষর
+fan=পাখা
+road=রাস্তা
+board=বোর্ড
+mouse=কম্পিউটারের ব্যবহারের মাউস
+keyboard=কম্পিউটারের ব্যবহারের কিবোর্ড
+signboard=সাইনবোর্ড
+shop=দোকান
+jolly=বলিষ্ঠ
+zipper=জিপার
+reward=পুরষ্কার
+competition=প্রতিযোগিতা
+tution=টিউশন
+fees=ফি
+flash=ঝলক
+abouse=অত্যাচার
+sock=মোজা
+shoelace=জুতাররশি
+bag=থলে
+paper=কাগজ
+eraser=রাবার
+pencil cutter=কাটার
+open=খোলা
+close=বন্ধ
+exit=বাহির
+system=পদ্ধতি
+transport=যানবাহন
+mobile=দূরালাপনি
+oil=তেল
+old=পুরনো
+new=নতুন
+call=ডাকা
+spend=খরচ
+spill=ঝরা
+add=প্রবেশ করানো
+bring=আনা
+focus=কেন্দ্রবিন্দু
+pure=শুদ্ধ
+impure=অশুদ্ধ
+purity=শুদ্ধতা
+draw=আঁকা
+drawing=চিত্র
+pull=টানা
+bottle=বোতল
+bottle cap=বোতলের মুখ
+suicide=আত্মহত্যা
+life=জীবন
+animal=পশুপাখি
+planet=গ্রহ
+resource=সম্পদ
+grain=ফসল
+gain=পাওয়া
+pain=ব্যাথা
+power=শক্তি
+plant=গাছ
+player=খেলোয়ার
+button=বাটন
+bottom=নিচে
+top=উপরে
+middle=মাঝখানে
+up=উপরে
+down=নীচে
+play=চালানো
+stop=বন্ধ করা
+pause=সাময়িক বন্ধ
+open=খোলা
+close=বন্ধ
+next=পরবরতী
+previous=পূর্বের
+apple=আপেল
+orange=কমলা
+mango=আম
+guava=পেয়ারা
+dispose=ফেলে দেয়া
+thumb=বুড়ো আঙ্গুল
+thumbs up=ভালো কিছু করলে তার প্রশংসা
+thumbs down=খারাপ কিছুর জন্য তিরস্কার
+cheer=বাহবা দেয়া
+leader=সর্দার
+collision=সংঘর্ষ
+care=দেখভাল করা
+wrong=ভুল
+right=সঠিক
+pair=জোড়া
+lost=হারিয়ে যাওয়া
+leave=ছেড়ে যাওয়া
+danger=বিপদ
+1
+

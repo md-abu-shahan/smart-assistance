@@ -1,0 +1,58 @@
+hi= হেল্ল = hello
+i= আমি =(ami)
+you= তুই, তুমি, আপনি = (tui, tumi, apni)
+he= সে = se
+she= সে = se
+we= আমরা =(amra)
+you= তোরা, তোমরা, আপনারা =(tora, tomra, apnara)
+they= তারা =(tara)
+this= এই =ei
+that= ইহা =iha
+here= এখানে  =(ekhan)
+there= সেখানে  =okhan 
+who= কে, =ke
+what= কী, =ki
+where= কোথায়, কৈ, =kothae, koi
+when= কখন/কবে, =kôkhon/kôbe
+not= না/নি/নেই, =na/ni/nei
+all= সব/সারা= sob
+many= বহু/অনেক, =bohu/ônek
+some= কিছু, =kichu
+few= অল্প, =olpo
+other= অন্য, =onno
+one= এক, =ek
+small= ছোট, =choto
+short= বেঠে, =bete
+narrow= চিপা, =cipa
+thin= পাতলা, =patla
+woman= মহিলা=mohila
+man= পুরুষ=purus
+mother= মা/আম্মা, =ma/amma
+father= বাবা/আব্বা, =baba/abba
+animal= জন্তু, =jontu
+fish= মাছ, =mach
+bird= পাখি, =pakhi
+dog= কুকুর, =kukur
+snake= সাপ, =sap
+tree= গাছ=gach
+white= সাদা, =saada
+black= কালো, =kalo
+night= রাত্র/রাত=raaaat
+new= নতুন, =notun
+old= পুরানো,=purano
+good= ভালো, =bhalo
+bad= খারাপ=khaaraap
+correct= ঠিক=thiik
+near= কাছে=kace
+যদি= jodi=jodi
+because= কারণ=karon
+cat=বিড়াল=biraal
+camera= ক্যামেরা।=camera 
+cow= গরু =goru
+elephant= হাতি =hatii
+flower= ফুল=ful
+lion= সিংহ মাহিন =Shinghooo
+rat= ইঁদুর =idur
+tiger= বাঘ=baaaaagh
+zebra= জেব্রা =jebraaa
+1
